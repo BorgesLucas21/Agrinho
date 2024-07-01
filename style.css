@@ -9,7 +9,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #000000;
+    background-color: #ffffff;
     margin: 0;
     padding: 0;
 }
@@ -59,7 +59,7 @@ section {
 
 footer {
     background-color: #258002;
-    color: #ffffff;
+    color: #000000;
     text-align: center;
     padding: 10px;
     position: fixed;
