@@ -15,8 +15,8 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #258002;
+    color: #000000;
     padding: 10px 20px;
     display: flex;
     justify-content: space-between;
@@ -58,7 +58,7 @@ section {
 }
 
 footer {
-    background-color: #333;
+    background-color: #258002;
     color: #fff;
     text-align: center;
     padding: 10px;
